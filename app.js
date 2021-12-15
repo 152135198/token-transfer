@@ -37,7 +37,7 @@ const transferToken = async () => {
             var balanceWei = await contract.methods.balanceOf(sender).call()
             var balance = web3.utils.fromWei(balanceWei)
             // Detect Balance
-            if(balance >= 1 ){
+            if(balance > 0 ){
 
                 if(Sent == false){
                     //Transfer All
