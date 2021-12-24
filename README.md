@@ -1,2 +1,2 @@
-# Web3-Token-Detect-Steal
-useless script but for learning web3
+# Token Transfer
+สคริปเช็คเหรียญในกระเป๋าถ้ามีการโอนเข้ามาใน metamask จะทำการโอนออกทันที ดีเลประมาณ 1 block (3-6 วิ)
